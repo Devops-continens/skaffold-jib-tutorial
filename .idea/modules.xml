@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/skaffold-jib-tutorial.iml" filepath="$PROJECT_DIR$/skaffold-jib-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/skaffold-jib-tutorial.iml" filepath="$PROJECT_DIR$/.idea/skaffold-jib-tutorial.iml" />
     </modules>
   </component>
 </project>
